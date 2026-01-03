@@ -19,9 +19,13 @@ Clean, extensible design
 
 # Project Structure
 email_bot/
+
 ├── main.py          # Entry point
+
 ├── email_client.py  # Email logic
+
 ├── config.py        # Configuration
+
 ├── logger.py        # Logging
 
 # Setup
